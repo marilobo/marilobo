@@ -13,9 +13,9 @@ Sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e 
 
 ![statics](https://github-readme-stats.vercel.app/api/top-langs/?username=marilobo&theme=dark&layout=compact) 
 
-### Tenho trabalhado com as seguintes linguagens e ferramentas:
+## Tenho trabalhado com as seguintes linguagens e ferramentas:
 
-#### Front-end
+### Front-end
 
 <a href="https://www.google.com/search?channel=fs&client=ubuntu&q=javascript" alt="JavaScript">
   <img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -37,7 +37,7 @@ Sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e 
   <img height="25" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </a>
 
-#### Back-end
+### Back-end
 
 <a href="https://www.typescriptlang.org/" alt="TypeScript">
   <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -63,7 +63,7 @@ Sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e 
   <img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 
-#### Ferramentas de teste
+### Ferramentas de teste
 
 <a href="https://jestjs.io/pt-BR/" alt="Jest">
   <img height="25" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
