@@ -1,15 +1,6 @@
 # Boas vindas ao meu perfil!
 
-Meu nome é <strong>Mariana Lobo</strong>, tenho 29 anos, sou formada em Aquacultura pela UFMG e estudante de <strong>Desenvolvimento Web</strong> na Trybe, na qual temos os módulos:
-
-- [x] Fundamentos;
-- [x] Front-end;
-- [ ] Back-end;
-- [ ] Ciência da Computação.
-
-Amo ter o poder de produzir minhas próprias aplicações, de usar minha criatividade para criar algo novo e da sensação e autoestima que somente quem já resolveu um problema no código sabe como é.
-
-Sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e Breaking Bad, como de tudo, amo plantas, sei imitar pinscher latindo e nunca aprendi a andar de bicicleta.
+Meu nome é <strong>Mariana Lobo</strong>, sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e Breaking Bad, como de tudo, amo plantas, sei imitar pinscher latindo e nunca aprendi a andar de bicicleta.
 
 ![statics](https://github-readme-stats.vercel.app/api/top-langs/?username=marilobo&theme=dark&layout=compact) 
 
