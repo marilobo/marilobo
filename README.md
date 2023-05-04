@@ -1,4 +1,4 @@
-# Boas vindas ao meu perfil!
+# Hello, world!
 
 Meu nome é <strong>Mariana Lobo</strong>, sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e Breaking Bad, como de tudo, amo plantas, sei imitar pinscher latindo e nunca aprendi a andar de bicicleta.
 
