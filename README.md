@@ -1,16 +1,26 @@
 # Hello, world!
 
-Meu nome é <strong>Mariana Lobo</strong>, sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e Breaking Bad, como de tudo, amo plantas, sei imitar pinscher latindo e nunca aprendi a andar de bicicleta.
+Meu nome é <strong>Mariana Lobo</strong>, sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e Breaking Bad, nunca aprendi a andar de bicicleta, mas estou sempre aprendendo alguma coisa nova na área de tecnologia.
 
 ![statics](https://github-readme-stats.vercel.app/api/top-langs/?username=marilobo&theme=dark&layout=compact) 
 
+## Atualmente estou aprendendo:
+<a href="https://github.com/orgs/python/repositories" alt="Python">
+  <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
 ## Tenho trabalhado com as seguintes linguagens e ferramentas:
 
-### Front-end
-
+### Linguagens:
 <a href="https://www.google.com/search?channel=fs&client=ubuntu&q=javascript" alt="JavaScript">
   <img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
+
+<a href="https://www.typescriptlang.org/" alt="TypeScript">
+  <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+
+### Front-end
 
 <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820" alt="HTML5">
   <img height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,10 +39,6 @@ Meu nome é <strong>Mariana Lobo</strong>, sou mineira, amante de um bom pão de
 </a>
 
 ### Back-end
-
-<a href="https://www.typescriptlang.org/" alt="TypeScript">
-  <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>
 
 <a href="https://nodejs.org/pt-br/docs" alt="Node">
   <img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
