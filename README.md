@@ -2,11 +2,13 @@
 
 Meu nome é <strong>Mariana Lobo</strong>, sou mineira, amante de um bom pão de queijo com cafezinho, fã de The Office e Breaking Bad, nunca aprendi a andar de bicicleta, mas estou sempre aprendendo alguma coisa nova na área de tecnologia.
 
-![statics](https://github-readme-stats.vercel.app/api/top-langs/?username=marilobo&theme=dark&layout=compact) 
-
 ## Atualmente estou aprendendo:
 <a href="https://github.com/orgs/python/repositories" alt="Python">
   <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+<a href="https://github.com/orgs/java/repositories" alt="Java">
+  <img height="25" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </a>
 
 ## Tenho trabalhado com as seguintes linguagens e ferramentas:
